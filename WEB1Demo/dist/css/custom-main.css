@@ -1,0 +1,23 @@
+.container-fluid {
+  margin: 0 0;
+  padding: 0px 0px;
+}
+.Footer p {
+  text-align: center;
+  background-color: #333;
+  color: coral;
+  padding: 20px 0px;
+  margin-top: 10px;
+}
+.custom-li {
+  list-style: none;
+}
+.custom-img {
+  width: 50px;
+}
+.custom-btn {
+  margin-left: 10px;
+}
+.custom-form {
+  padding: 20px 20px;
+}
